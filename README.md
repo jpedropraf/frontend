@@ -1,2 +1,2 @@
 # frontend
-desenvolvimento de um isstema froentend
+desenvolvimento de um sistema frontend
